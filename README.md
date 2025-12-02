@@ -46,6 +46,7 @@ https://thecatapi.com/
 7.-Se implementó una pantalla de detalle con imagen grande y características.
 8.-Se probó en navegador y en emulador Android.
 9.-Se generó la APK final con Flutter.
+
 <img width="213" height="338" alt="image" src="https://github.com/user-attachments/assets/a172e04a-7663-4cb0-bec5-7bcfa3e4da66" />
 
 
