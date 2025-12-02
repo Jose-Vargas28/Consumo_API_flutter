@@ -65,7 +65,7 @@ Prueba en el emulador android
 <img width="313" height="687" alt="image" src="https://github.com/user-attachments/assets/dc0d340e-9ed6-4d20-b106-94aa3dbd21f9" />
 <img width="323" height="671" alt="image" src="https://github.com/user-attachments/assets/e1c12432-5a05-4f2c-846d-ee9e4b171b13" />
 
-"La apk se encuentra subida en este repositorio"
+
 
 
 
